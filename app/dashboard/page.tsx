@@ -225,7 +225,7 @@ export default function DashboardPage() {
                         Command Center
                       </p>
                       <p className="text-2xl font-semibold text-[var(--text-main)]">
-                        Mr Robot
+                        KINGOFAK
                       </p>
                     </div>
                   </div>
