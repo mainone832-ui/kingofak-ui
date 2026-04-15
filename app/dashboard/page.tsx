@@ -218,7 +218,7 @@ export default function DashboardPage() {
                 <div className="space-y-4">
                   <div className="flex items-center gap-3">
                     <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-linear-to-br from-(--accent) to-[#2e654f] text-base font-bold text-white shadow-[0_18px_40px_rgba(18,59,43,0.28)]">
-                      MR
+                      AK
                     </div>
                     <div>
                       <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[var(--accent)]">
