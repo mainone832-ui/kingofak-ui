@@ -65,13 +65,13 @@ export default function LoginPage() {
         transition={{ duration: 0.8 }}
         className="relative z-10 w-full max-w-md flex flex-col items-center justify-center space-y-8"
       >
-        {/* Header - MR ROBOT */}
+        {/* Header - KINGOFAK */}
         <div className="text-center space-y-4">
           {/* Title with line decorators */}
           <div className="flex items-center justify-center gap-4">
             <div className="h-px w-8 sm:w-12 bg-cyan-500" />
             <h1 className="text-2xl sm:text-3xl font-bold tracking-[0.3em] text-white drop-shadow-[0_0_10px_rgba(0,255,200,0.5)]">
-              MR ROBOT
+              KINGOFAK
             </h1>
             <div className="h-px w-8 sm:w-12 bg-cyan-500" />
           </div>
